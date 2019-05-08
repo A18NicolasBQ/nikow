@@ -1,0 +1,6 @@
+
+
+hola muy buenas
+este es mi primer código en git
+a ver si funciona
+
